@@ -1,0 +1,1191 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0760000000	n/a	n/a	STATUS	n/a	n/a	keyboard0
+1.5200000000	n/a	n/a	STATUS	n/a	n/a	boundary
+3.5600000000	n/a	n/a	STATUS	n/a	n/a	boundary
+5.2400000000	n/a	n/a	Right response	n/a	n/a	keypad2
+6.2820000000	n/a	n/a	Left response	n/a	n/a	keypad1
+9.0920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+9.3920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+9.6960000000	n/a	n/a	Right response	n/a	n/a	keypad2
+77.8520000000	n/a	n/a	Left response	n/a	n/a	keypad1
+80.5120000000	n/a	n/a	Left response	n/a	n/a	keypad1
+83.3700000000	n/a	n/a	Right response	n/a	n/a	keypad2
+87.3180000000	n/a	n/a	Right response	n/a	n/a	keypad2
+92.9700000000	n/a	n/a	Left response	n/a	n/a	keypad1
+97.3180000000	n/a	n/a	Left response	n/a	n/a	keypad1
+97.3220000000	n/a	n/a	Left response	n/a	n/a	keypad1
+103.2200000000	n/a	n/a	Left response	n/a	n/a	keypad1
+113.4880000000	n/a	n/a	Right response	n/a	n/a	keypad2
+121.5840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+123.3980000000	n/a	n/a	Right response	n/a	n/a	keypad2
+127.4460000000	n/a	n/a	Right response	n/a	n/a	keypad2
+130.6960000000	n/a	n/a	Right response	n/a	n/a	keypad2
+134.4640000000	n/a	n/a	Right response	n/a	n/a	keypad2
+137.4920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+140.8000000000	n/a	n/a	Left response	n/a	n/a	keypad1
+148.6120000000	n/a	n/a	Left response	n/a	n/a	keypad1
+162.4380000000	n/a	n/a	STATUS	n/a	n/a	keyboard0
+162.7060000000	n/a	n/a	STATUS	n/a	n/a	245
+164.6420000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+165.8520000000	n/a	n/a	Left response	n/a	n/a	keypad1
+165.9760000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+166.4400000000	n/a	n/a	STATUS	n/a	n/a	boundary
+166.4460000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+168.2820000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+170.5880000000	n/a	n/a	Right response	n/a	n/a	keypad2
+170.6500000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+172.1860000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+173.3220000000	n/a	n/a	Left response	n/a	n/a	keypad1
+173.4200000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+175.1560000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+176.7820000000	n/a	n/a	Left response	n/a	n/a	keypad1
+176.7860000000	n/a	n/a	Left response	n/a	n/a	keypad1
+176.8900000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+178.5260000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+180.5220000000	n/a	n/a	Left response	n/a	n/a	keypad1
+180.6100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+182.3460000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+184.4620000000	n/a	n/a	Left response	n/a	n/a	keypad1
+184.5320000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+185.9660000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+188.0960000000	n/a	n/a	Right response	n/a	n/a	keypad2
+188.2020000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+189.6380000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+191.5680000000	n/a	n/a	Left response	n/a	n/a	keypad1
+191.6560000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+193.0900000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+195.7020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+195.7760000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+197.6120000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+198.5980000000	n/a	n/a	Right response	n/a	n/a	keypad2
+198.7120000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+200.4480000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+202.2840000000	n/a	n/a	Left response	n/a	n/a	keypad1
+202.2880000000	n/a	n/a	Left response	n/a	n/a	keypad1
+202.3500000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+203.9840000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+206.0680000000	n/a	n/a	Right response	n/a	n/a	keypad2
+206.1540000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+207.7880000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+211.3860000000	n/a	n/a	Left response	n/a	n/a	keypad1
+211.4600000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+212.8940000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+213.9960000000	n/a	n/a	Left response	n/a	n/a	keypad1
+214.0620000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+215.8980000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+216.9900000000	n/a	n/a	Left response	n/a	n/a	keypad1
+217.0980000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+218.9340000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+219.7220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+219.8180000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+221.4520000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+223.2840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+223.4060000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+225.1400000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+227.5560000000	n/a	n/a	Left response	n/a	n/a	keypad1
+227.6420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+229.1780000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+232.2620000000	n/a	n/a	Left response	n/a	n/a	keypad1
+232.3800000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+233.9160000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+235.1860000000	n/a	n/a	Left response	n/a	n/a	keypad1
+235.2660000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+236.9020000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+237.8840000000	n/a	n/a	Left response	n/a	n/a	keypad1
+237.9540000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+239.4880000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+241.0440000000	n/a	n/a	Right response	n/a	n/a	keypad2
+241.1560000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+242.6920000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+245.1820000000	n/a	n/a	Left response	n/a	n/a	keypad1
+245.1860000000	n/a	n/a	Left response	n/a	n/a	keypad1
+245.3100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+246.9460000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+249.6260000000	n/a	n/a	Right response	n/a	n/a	keypad2
+249.7160000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+251.1500000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+253.0080000000	n/a	n/a	Left response	n/a	n/a	keypad1
+253.0860000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+254.8200000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+256.7900000000	n/a	n/a	Left response	n/a	n/a	keypad1
+256.9060000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+258.4420000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+259.5140000000	n/a	n/a	Right response	n/a	n/a	keypad2
+259.6260000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+261.0600000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+262.7220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+262.8280000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+264.6640000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+267.1100000000	n/a	n/a	Left response	n/a	n/a	keypad1
+267.1820000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+268.8180000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+269.8100000000	n/a	n/a	Left response	n/a	n/a	keypad1
+269.9020000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+271.5380000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+272.7800000000	n/a	n/a	Right response	n/a	n/a	keypad2
+272.9060000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+274.6400000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+275.5600000000	n/a	n/a	Right response	n/a	n/a	keypad2
+275.5640000000	n/a	n/a	Right response	n/a	n/a	keypad2
+275.6420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+277.2760000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+278.1460000000	n/a	n/a	Right response	n/a	n/a	keypad2
+278.2440000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+280.0800000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+281.3320000000	n/a	n/a	Right response	n/a	n/a	keypad2
+281.4480000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+283.2820000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+284.0420000000	n/a	n/a	Left response	n/a	n/a	keypad1
+284.1500000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+285.9860000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+286.9420000000	n/a	n/a	Left response	n/a	n/a	keypad1
+287.0700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+288.5040000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+289.8320000000	n/a	n/a	Left response	n/a	n/a	keypad1
+289.9240000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+291.7580000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+292.7380000000	n/a	n/a	Right response	n/a	n/a	keypad2
+292.8100000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+294.5440000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+296.3120000000	n/a	n/a	Left response	n/a	n/a	keypad1
+296.3800000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+297.8140000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+301.0580000000	n/a	n/a	Right response	n/a	n/a	keypad2
+301.1340000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+302.5700000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+305.5400000000	n/a	n/a	Right response	n/a	n/a	keypad2
+305.6560000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+307.3900000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+308.3680000000	n/a	n/a	Left response	n/a	n/a	keypad1
+308.4600000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+309.8940000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+310.7300000000	n/a	n/a	Right response	n/a	n/a	keypad2
+310.8280000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+312.5620000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+313.2420000000	n/a	n/a	Left response	n/a	n/a	keypad1
+313.3140000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+315.1480000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+316.7640000000	n/a	n/a	Left response	n/a	n/a	keypad1
+316.8840000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+318.3180000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+320.8980000000	n/a	n/a	Right response	n/a	n/a	keypad2
+321.0060000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+322.6420000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+323.6520000000	n/a	n/a	Left response	n/a	n/a	keypad1
+323.7400000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+325.4760000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+327.2780000000	n/a	n/a	Left response	n/a	n/a	keypad1
+327.3960000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+328.9300000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+330.4200000000	n/a	n/a	Right response	n/a	n/a	keypad2
+330.4980000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+332.3320000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+333.0580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+333.1840000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+335.0200000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+336.7000000000	n/a	n/a	Right response	n/a	n/a	keypad2
+336.7880000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+338.4220000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+339.3020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+339.4080000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+340.9420000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+342.2860000000	n/a	n/a	Right response	n/a	n/a	keypad2
+342.3600000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+343.8940000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+344.9540000000	n/a	n/a	Left response	n/a	n/a	keypad1
+345.0800000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+346.8140000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+348.4120000000	n/a	n/a	Left response	n/a	n/a	keypad1
+348.5160000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+350.0520000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+352.5920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+352.6880000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+354.3220000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+355.0760000000	n/a	n/a	Right response	n/a	n/a	keypad2
+355.1900000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+356.3240000000	n/a	n/a	STATUS	n/a	n/a	245
+357.9180000000	n/a	n/a	Left response	n/a	n/a	keypad1
+357.9220000000	n/a	n/a	Left response	n/a	n/a	keypad1
+357.9760000000	n/a	n/a	STATUS	n/a	n/a	244
+360.2120000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+363.5500000000	n/a	n/a	Left response	n/a	n/a	keypad1
+363.6660000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+365.5000000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+366.5560000000	n/a	n/a	Left response	n/a	n/a	keypad1
+366.6360000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+368.4700000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+369.0960000000	n/a	n/a	Left response	n/a	n/a	keypad1
+369.2040000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+370.6400000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+373.2920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+373.3740000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+375.2100000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+375.8840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+375.9780000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+377.6140000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+378.5260000000	n/a	n/a	Left response	n/a	n/a	keypad1
+378.5980000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+380.3320000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+382.0760000000	n/a	n/a	Left response	n/a	n/a	keypad1
+382.1680000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+384.0040000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+387.3620000000	n/a	n/a	Left response	n/a	n/a	keypad1
+387.4720000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+389.1080000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+390.2840000000	n/a	n/a	Left response	n/a	n/a	keypad1
+390.3920000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+391.9280000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+395.1580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+395.2800000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+397.1160000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+398.3120000000	n/a	n/a	Left response	n/a	n/a	keypad1
+398.4340000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+400.2700000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+401.4400000000	n/a	n/a	Right response	n/a	n/a	keypad2
+401.5220000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+403.2560000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+407.1580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+407.2760000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+408.7120000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+411.5980000000	n/a	n/a	Left response	n/a	n/a	keypad1
+411.6820000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+413.3160000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+414.0720000000	n/a	n/a	Left response	n/a	n/a	keypad1
+414.1660000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+416.0020000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+416.9160000000	n/a	n/a	Right response	n/a	n/a	keypad2
+416.9860000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+418.7220000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+419.2040000000	n/a	n/a	Left response	n/a	n/a	keypad1
+419.2720000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+420.7080000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+424.6920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+424.7940000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+426.3300000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+427.9000000000	n/a	n/a	Left response	n/a	n/a	keypad1
+427.9800000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+429.5160000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+430.4040000000	n/a	n/a	Right response	n/a	n/a	keypad2
+430.5180000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+432.1520000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+435.8000000000	n/a	n/a	Left response	n/a	n/a	keypad1
+435.8720000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+437.7080000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+441.6760000000	n/a	n/a	Right response	n/a	n/a	keypad2
+441.7440000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+443.2800000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+443.7980000000	n/a	n/a	Left response	n/a	n/a	keypad1
+443.8980000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+445.4320000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+446.6660000000	n/a	n/a	Left response	n/a	n/a	keypad1
+446.7840000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+448.2180000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+451.1540000000	n/a	n/a	Right response	n/a	n/a	keypad2
+451.2540000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+452.8900000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+453.7360000000	n/a	n/a	Right response	n/a	n/a	keypad2
+453.8240000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+455.6600000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+456.6480000000	n/a	n/a	Left response	n/a	n/a	keypad1
+456.7280000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+458.4620000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+459.9220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+459.9980000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+461.6320000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+462.9060000000	n/a	n/a	Right response	n/a	n/a	keypad2
+463.0000000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+464.7360000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+466.5440000000	n/a	n/a	Left response	n/a	n/a	keypad1
+466.6540000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+468.2900000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+469.8400000000	n/a	n/a	Left response	n/a	n/a	keypad1
+469.9240000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+471.6600000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+473.6220000000	n/a	n/a	Left response	n/a	n/a	keypad1
+473.6940000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+475.5300000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+476.7060000000	n/a	n/a	Right response	n/a	n/a	keypad2
+476.8320000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+478.2660000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+479.1920000000	n/a	n/a	Left response	n/a	n/a	keypad1
+479.3000000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+481.0720000000	n/a	n/a	STATUS	n/a	n/a	keyboard0
+481.1360000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+481.4160000000	n/a	n/a	STATUS	n/a	n/a	keyboard0
+481.6340000000	n/a	n/a	Left response	n/a	n/a	keypad1
+481.7520000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+483.4880000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+486.6340000000	n/a	n/a	Left response	n/a	n/a	keypad1
+486.7080000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+488.3420000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+489.4300000000	n/a	n/a	Right response	n/a	n/a	keypad2
+489.5100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+491.0460000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+493.1620000000	n/a	n/a	Right response	n/a	n/a	keypad2
+493.2640000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+494.8000000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+497.0380000000	n/a	n/a	Left response	n/a	n/a	keypad1
+497.1520000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+498.5880000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+501.0180000000	n/a	n/a	Left response	n/a	n/a	keypad1
+501.0900000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+502.8240000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+504.7800000000	n/a	n/a	Right response	n/a	n/a	keypad2
+504.8600000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+506.2940000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+507.6120000000	n/a	n/a	Right response	n/a	n/a	keypad2
+507.7300000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+509.4640000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+510.8280000000	n/a	n/a	Right response	n/a	n/a	keypad2
+510.9160000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+512.5520000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+513.4280000000	n/a	n/a	Right response	n/a	n/a	keypad2
+513.5520000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+515.1880000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+516.8500000000	n/a	n/a	Right response	n/a	n/a	keypad2
+516.8540000000	n/a	n/a	Right response	n/a	n/a	keypad2
+516.9560000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+518.3900000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+522.2900000000	n/a	n/a	Left response	n/a	n/a	keypad1
+522.3780000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+523.9140000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+524.7800000000	n/a	n/a	Right response	n/a	n/a	keypad2
+524.8460000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+526.5820000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+527.2500000000	n/a	n/a	Right response	n/a	n/a	keypad2
+527.3500000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+529.0860000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+532.1580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+532.2720000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+533.7060000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+536.4380000000	n/a	n/a	Left response	n/a	n/a	keypad1
+536.5100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+538.0440000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+538.9520000000	n/a	n/a	Right response	n/a	n/a	keypad2
+539.0620000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+540.5980000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+541.4060000000	n/a	n/a	Left response	n/a	n/a	keypad1
+541.4980000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+543.1320000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+544.0840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+544.2000000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+545.9360000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+547.8740000000	n/a	n/a	Right response	n/a	n/a	keypad2
+547.9720000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+549.4060000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+550.1700000000	n/a	n/a	Right response	n/a	n/a	keypad2
+550.2560000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+551.6920000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+553.0080000000	n/a	n/a	Left response	n/a	n/a	keypad1
+553.1100000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+554.5440000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+555.7200000000	n/a	n/a	Right response	n/a	n/a	keypad2
+555.7960000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+557.4300000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+557.9660000000	n/a	n/a	Right response	n/a	n/a	keypad2
+558.0640000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+559.6000000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+561.9920000000	n/a	n/a	Left response	n/a	n/a	keypad1
+562.1200000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+563.6540000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+564.9580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+565.0220000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+566.1560000000	n/a	n/a	STATUS	n/a	n/a	244
+576.3600000000	n/a	n/a	Left response	n/a	n/a	keypad1
+576.4160000000	n/a	n/a	STATUS	n/a	n/a	243
+578.4520000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+580.6740000000	n/a	n/a	Left response	n/a	n/a	keypad1
+580.7880000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+582.5240000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+583.6900000000	n/a	n/a	Left response	n/a	n/a	keypad1
+583.7900000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+585.3260000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+586.5300000000	n/a	n/a	Left response	n/a	n/a	keypad1
+586.5340000000	n/a	n/a	Left response	n/a	n/a	keypad1
+586.6260000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+588.0620000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+589.3560000000	n/a	n/a	Left response	n/a	n/a	keypad1
+589.4640000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+590.8980000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+592.5120000000	n/a	n/a	Right response	n/a	n/a	keypad2
+592.6000000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+594.0360000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+596.3380000000	n/a	n/a	Right response	n/a	n/a	keypad2
+596.4040000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+597.8380000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+599.6260000000	n/a	n/a	Right response	n/a	n/a	keypad2
+599.7080000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+601.5420000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+603.3100000000	n/a	n/a	Right response	n/a	n/a	keypad2
+603.3940000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+605.0300000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+606.1720000000	n/a	n/a	Left response	n/a	n/a	keypad1
+606.1760000000	n/a	n/a	Left response	n/a	n/a	keypad1
+606.2480000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+607.9820000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+609.2480000000	n/a	n/a	Right response	n/a	n/a	keypad2
+609.3500000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+611.0860000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+611.9380000000	n/a	n/a	Right response	n/a	n/a	keypad2
+612.0040000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+613.6380000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+614.8840000000	n/a	n/a	Left response	n/a	n/a	keypad1
+614.9740000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+616.5080000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+617.9900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+618.0920000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+619.5280000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+622.0480000000	n/a	n/a	Left response	n/a	n/a	keypad1
+622.1140000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+623.8480000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+627.0300000000	n/a	n/a	Left response	n/a	n/a	keypad1
+627.1520000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+628.9880000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+630.4800000000	n/a	n/a	Left response	n/a	n/a	keypad1
+630.5880000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+632.4240000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+633.5620000000	n/a	n/a	Right response	n/a	n/a	keypad2
+633.6920000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+635.5280000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+636.1840000000	n/a	n/a	Left response	n/a	n/a	keypad1
+636.3120000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+637.8460000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+640.8360000000	n/a	n/a	Left response	n/a	n/a	keypad1
+640.9500000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+642.4840000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+644.0820000000	n/a	n/a	Right response	n/a	n/a	keypad2
+644.0860000000	n/a	n/a	Right response	n/a	n/a	keypad2
+644.1860000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+645.8260000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+646.6720000000	n/a	n/a	Right response	n/a	n/a	keypad2
+646.7600000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+648.2960000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+649.1380000000	n/a	n/a	Right response	n/a	n/a	keypad2
+649.2140000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+651.0480000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+652.1400000000	n/a	n/a	Right response	n/a	n/a	keypad2
+652.2160000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+653.7500000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+655.7320000000	n/a	n/a	Left response	n/a	n/a	keypad1
+655.8360000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+657.3720000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+658.2740000000	n/a	n/a	Right response	n/a	n/a	keypad2
+658.3380000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+659.7760000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+660.4740000000	n/a	n/a	Left response	n/a	n/a	keypad1
+660.5580000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+662.2920000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+662.8840000000	n/a	n/a	Left response	n/a	n/a	keypad1
+663.0100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+664.7460000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+665.8600000000	n/a	n/a	Right response	n/a	n/a	keypad2
+665.9300000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+667.5660000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+668.6960000000	n/a	n/a	Right response	n/a	n/a	keypad2
+668.8160000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+670.6520000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+671.9500000000	n/a	n/a	Left response	n/a	n/a	keypad1
+672.0520000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+673.7880000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+674.6580000000	n/a	n/a	Right response	n/a	n/a	keypad2
+674.7220000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+676.1580000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+677.3160000000	n/a	n/a	Right response	n/a	n/a	keypad2
+677.4260000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+679.2600000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+681.3340000000	n/a	n/a	Right response	n/a	n/a	keypad2
+681.4620000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+683.1980000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+684.1340000000	n/a	n/a	Left response	n/a	n/a	keypad1
+684.2160000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+685.6500000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+689.7220000000	n/a	n/a	STATUS	n/a	n/a	110
+691.1560000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+692.0780000000	n/a	n/a	Right response	n/a	n/a	keypad2
+692.2060000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+693.7420000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+695.0060000000	n/a	n/a	Left response	n/a	n/a	keypad1
+695.1260000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+696.7620000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+697.3260000000	n/a	n/a	Left response	n/a	n/a	keypad1
+697.3960000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+698.9300000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+699.5340000000	n/a	n/a	Right response	n/a	n/a	keypad2
+699.6160000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+701.2500000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+702.0440000000	n/a	n/a	Right response	n/a	n/a	keypad2
+702.1520000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+703.7860000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+704.3520000000	n/a	n/a	Right response	n/a	n/a	keypad2
+704.4700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+706.2060000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+707.5640000000	n/a	n/a	Right response	n/a	n/a	keypad2
+707.6560000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+709.0900000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+709.9220000000	n/a	n/a	Left response	n/a	n/a	keypad1
+710.0260000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+711.8600000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+712.4080000000	n/a	n/a	Right response	n/a	n/a	keypad2
+712.4780000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+714.1120000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+714.5440000000	n/a	n/a	Right response	n/a	n/a	keypad2
+714.6300000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+716.4660000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+717.0600000000	n/a	n/a	Right response	n/a	n/a	keypad2
+717.1820000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+718.8180000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+719.2600000000	n/a	n/a	Left response	n/a	n/a	keypad1
+719.3520000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+721.0860000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+721.6280000000	n/a	n/a	Left response	n/a	n/a	keypad1
+721.7040000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+723.5400000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+723.9380000000	n/a	n/a	Left response	n/a	n/a	keypad1
+723.9420000000	n/a	n/a	Left response	n/a	n/a	keypad1
+724.0060000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+725.8420000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+726.0800000000	n/a	n/a	Right response	n/a	n/a	keypad2
+726.1940000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+727.7280000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+728.1400000000	n/a	n/a	Right response	n/a	n/a	keypad2
+728.2100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+729.7460000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+730.3040000000	n/a	n/a	Right response	n/a	n/a	keypad2
+730.4300000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+732.0660000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+732.3940000000	n/a	n/a	Right response	n/a	n/a	keypad2
+732.4980000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+734.0340000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+734.4100000000	n/a	n/a	Right response	n/a	n/a	keypad2
+734.4860000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+735.9180000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+736.5100000000	n/a	n/a	Left response	n/a	n/a	keypad1
+736.5140000000	n/a	n/a	Left response	n/a	n/a	keypad1
+736.6020000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+738.2380000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+738.5040000000	n/a	n/a	Right response	n/a	n/a	keypad2
+738.5720000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+740.3060000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+740.5240000000	n/a	n/a	Right response	n/a	n/a	keypad2
+740.6240000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+742.4600000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+743.5840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+743.6600000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+745.0940000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+745.6240000000	n/a	n/a	Left response	n/a	n/a	keypad1
+745.7280000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+747.4640000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+747.8280000000	n/a	n/a	Right response	n/a	n/a	keypad2
+747.9480000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+749.0820000000	n/a	n/a	STATUS	n/a	n/a	243
+750.5980000000	n/a	n/a	Left response	n/a	n/a	keypad1
+750.6500000000	n/a	n/a	STATUS	n/a	n/a	242
+752.5860000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+753.3380000000	n/a	n/a	Left response	n/a	n/a	keypad1
+753.4360000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+754.9720000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+756.3000000000	n/a	n/a	Left response	n/a	n/a	keypad1
+756.4240000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+758.2580000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+758.7940000000	n/a	n/a	Right response	n/a	n/a	keypad2
+758.8580000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+760.4420000000	n/a	n/a	Left response	n/a	n/a	keypad1
+760.4940000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+761.3660000000	n/a	n/a	Left response	n/a	n/a	keypad1
+761.4620000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+762.8960000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+763.1640000000	n/a	n/a	Left response	n/a	n/a	keypad1
+763.2460000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+764.9820000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+768.5660000000	n/a	n/a	Left response	n/a	n/a	keypad1
+768.6860000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+770.5220000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+771.0460000000	n/a	n/a	Left response	n/a	n/a	keypad1
+771.1220000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+772.9560000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+773.1740000000	n/a	n/a	Left response	n/a	n/a	keypad1
+773.2900000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+775.1260000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+776.2380000000	n/a	n/a	Left response	n/a	n/a	keypad1
+776.3440000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+778.0780000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+778.3800000000	n/a	n/a	Left response	n/a	n/a	keypad1
+778.4780000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+780.2140000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+781.0320000000	n/a	n/a	Left response	n/a	n/a	keypad1
+781.0980000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+782.7340000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+783.2720000000	n/a	n/a	Left response	n/a	n/a	keypad1
+783.3500000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+785.0860000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+785.7540000000	n/a	n/a	Left response	n/a	n/a	keypad1
+785.8700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+787.4040000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+787.9320000000	n/a	n/a	Left response	n/a	n/a	keypad1
+788.0560000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+789.4900000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+790.3600000000	n/a	n/a	Right response	n/a	n/a	keypad2
+790.4580000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+792.1920000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+792.5060000000	n/a	n/a	Right response	n/a	n/a	keypad2
+792.5100000000	n/a	n/a	Right response	n/a	n/a	keypad2
+792.5940000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+794.2300000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+794.5360000000	n/a	n/a	Right response	n/a	n/a	keypad2
+794.6620000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+796.2980000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+796.5700000000	n/a	n/a	Right response	n/a	n/a	keypad2
+796.6820000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+798.2160000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+798.5780000000	n/a	n/a	Right response	n/a	n/a	keypad2
+798.7000000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+800.2360000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+800.5880000000	n/a	n/a	Left response	n/a	n/a	keypad1
+800.6860000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+802.3200000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+802.5780000000	n/a	n/a	Left response	n/a	n/a	keypad1
+802.6700000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+804.4060000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+804.6140000000	n/a	n/a	Right response	n/a	n/a	keypad2
+804.6900000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+806.3240000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+806.6120000000	n/a	n/a	Right response	n/a	n/a	keypad2
+806.7240000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+808.5600000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+808.9260000000	n/a	n/a	Left response	n/a	n/a	keypad1
+809.0280000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+810.4620000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+810.8040000000	n/a	n/a	Right response	n/a	n/a	keypad2
+810.8960000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+812.5300000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+812.7580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+812.8320000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+814.6660000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+814.8840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+814.9660000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+816.4020000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+816.6880000000	n/a	n/a	Right response	n/a	n/a	keypad2
+816.7860000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+818.6200000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+818.8540000000	n/a	n/a	Left response	n/a	n/a	keypad1
+818.9700000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+820.7060000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+820.9160000000	n/a	n/a	Right response	n/a	n/a	keypad2
+820.9900000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+822.7240000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+822.9580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+823.0420000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+824.4760000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+824.7520000000	n/a	n/a	Right response	n/a	n/a	keypad2
+824.8440000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+826.2780000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+826.5620000000	n/a	n/a	Left response	n/a	n/a	keypad1
+826.6780000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+828.3140000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+828.5100000000	n/a	n/a	Left response	n/a	n/a	keypad1
+828.5980000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+830.0320000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+830.3900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+830.5000000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+832.3340000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+832.5580000000	n/a	n/a	Right response	n/a	n/a	keypad2
+832.6340000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+834.0680000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+834.3940000000	n/a	n/a	Right response	n/a	n/a	keypad2
+834.4700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+835.9040000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+836.1720000000	n/a	n/a	Right response	n/a	n/a	keypad2
+836.2540000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+837.6900000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+837.9740000000	n/a	n/a	Right response	n/a	n/a	keypad2
+838.0740000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+839.7080000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+840.0740000000	n/a	n/a	Right response	n/a	n/a	keypad2
+840.1760000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+841.7100000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+842.3340000000	n/a	n/a	Right response	n/a	n/a	keypad2
+842.4100000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+843.9460000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+844.4720000000	n/a	n/a	Left response	n/a	n/a	keypad1
+844.5960000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+846.1320000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+846.6000000000	n/a	n/a	Right response	n/a	n/a	keypad2
+846.7000000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+848.4340000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+849.0300000000	n/a	n/a	Right response	n/a	n/a	keypad2
+849.1520000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+850.5860000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+851.2240000000	n/a	n/a	Right response	n/a	n/a	keypad2
+851.2880000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+852.9220000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+853.3420000000	n/a	n/a	Right response	n/a	n/a	keypad2
+853.4060000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+854.9400000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+855.5840000000	n/a	n/a	Left response	n/a	n/a	keypad1
+855.5880000000	n/a	n/a	Left response	n/a	n/a	keypad1
+855.6760000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+857.2100000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+857.4900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+857.6100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+859.2460000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+859.5220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+859.6460000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+861.3820000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+861.8500000000	n/a	n/a	Left response	n/a	n/a	keypad1
+861.9480000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+863.4820000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+863.9160000000	n/a	n/a	Right response	n/a	n/a	keypad2
+864.0000000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+865.8360000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+866.2480000000	n/a	n/a	Left response	n/a	n/a	keypad1
+866.3700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+867.9040000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+868.6980000000	n/a	n/a	Left response	n/a	n/a	keypad1
+868.8220000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+870.6560000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+871.3020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+871.4080000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+873.1440000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+873.7480000000	n/a	n/a	Left response	n/a	n/a	keypad1
+873.8100000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+875.2440000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+875.7540000000	n/a	n/a	Right response	n/a	n/a	keypad2
+875.8620000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+877.6980000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+878.5120000000	n/a	n/a	Left response	n/a	n/a	keypad1
+878.5980000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+879.5600000000	n/a	n/a	STATUS	n/a	n/a	boundary
+880.0240000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+881.0580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+881.1420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+882.6760000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+883.4280000000	n/a	n/a	Right response	n/a	n/a	keypad2
+883.4940000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+885.3280000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+886.6040000000	n/a	n/a	Right response	n/a	n/a	keypad2
+886.6980000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+888.1320000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+888.7680000000	n/a	n/a	Left response	n/a	n/a	keypad1
+888.8340000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+890.4680000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+891.0680000000	n/a	n/a	Left response	n/a	n/a	keypad1
+891.1360000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+892.5700000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+893.9420000000	n/a	n/a	Right response	n/a	n/a	keypad2
+894.0220000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+895.7560000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+897.1420000000	n/a	n/a	Right response	n/a	n/a	keypad2
+897.2240000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+898.6600000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+900.1020000000	n/a	n/a	Left response	n/a	n/a	keypad1
+900.2280000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+901.8620000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+903.1600000000	n/a	n/a	Left response	n/a	n/a	keypad1
+903.2480000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+904.6820000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+905.6640000000	n/a	n/a	Left response	n/a	n/a	keypad1
+905.7660000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+907.6020000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+908.3020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+908.3700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+909.8040000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+911.5220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+911.5900000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+913.0240000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+914.3020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+914.3920000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+915.8280000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+917.6120000000	n/a	n/a	Right response	n/a	n/a	keypad2
+917.7120000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+919.2480000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+921.5060000000	n/a	n/a	Left response	n/a	n/a	keypad1
+921.6340000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+923.4680000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+925.1100000000	n/a	n/a	Left response	n/a	n/a	keypad1
+925.2380000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+927.0720000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+927.9920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+928.0740000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+929.7080000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+930.3620000000	n/a	n/a	Left response	n/a	n/a	keypad1
+930.4420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+932.1780000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+933.3140000000	n/a	n/a	Left response	n/a	n/a	keypad1
+933.4280000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+934.8640000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+936.3000000000	n/a	n/a	Left response	n/a	n/a	keypad1
+936.3820000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+937.9160000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+939.0500000000	n/a	n/a	Left response	n/a	n/a	keypad1
+939.1520000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+940.6860000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+941.9780000000	n/a	n/a	Left response	n/a	n/a	keypad1
+942.1040000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+943.7400000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+945.0460000000	n/a	n/a	Right response	n/a	n/a	keypad2
+945.1420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+946.5760000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+947.4040000000	n/a	n/a	Left response	n/a	n/a	keypad1
+947.4760000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+949.0120000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+949.7300000000	n/a	n/a	Right response	n/a	n/a	keypad2
+949.8280000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+951.5640000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+952.9700000000	n/a	n/a	Right response	n/a	n/a	keypad2
+953.1000000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+954.8340000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+955.5740000000	n/a	n/a	Right response	n/a	n/a	keypad2
+955.6680000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+957.3040000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+958.0600000000	n/a	n/a	Right response	n/a	n/a	keypad2
+958.1880000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+959.8220000000	n/a	n/a	Train Stim: D C	n/a	n/a	17
+960.7980000000	n/a	n/a	Left response	n/a	n/a	keypad1
+960.9080000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+962.6420000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+963.2800000000	n/a	n/a	Left response	n/a	n/a	keypad1
+963.3600000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+964.9940000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+965.9580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+966.0620000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+967.8980000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+970.0780000000	n/a	n/a	Left response	n/a	n/a	keypad1
+970.1820000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+972.0180000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+973.2060000000	n/a	n/a	Left response	n/a	n/a	keypad1
+973.2100000000	n/a	n/a	Left response	n/a	n/a	keypad1
+973.2700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+975.1040000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+976.7140000000	n/a	n/a	Right response	n/a	n/a	keypad2
+976.8240000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+978.6580000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+979.1760000000	n/a	n/a	Left response	n/a	n/a	keypad1
+979.2760000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+980.7120000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+981.6560000000	n/a	n/a	Right response	n/a	n/a	keypad2
+981.7620000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+983.5980000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+985.9880000000	n/a	n/a	Right response	n/a	n/a	keypad2
+986.0660000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+987.8020000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+988.3720000000	n/a	n/a	Left response	n/a	n/a	keypad1
+988.4360000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+989.9700000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+990.6400000000	n/a	n/a	Right response	n/a	n/a	keypad2
+990.7720000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+992.4060000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+994.6240000000	n/a	n/a	Right response	n/a	n/a	keypad2
+994.6920000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+996.2260000000	n/a	n/a	Train Stim: E F	n/a	n/a	18
+997.4000000000	n/a	n/a	Right response	n/a	n/a	keypad2
+997.4960000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+999.0300000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+1000.5860000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1000.7140000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1002.2500000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+1002.8800000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1002.9500000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1004.5860000000	n/a	n/a	Train Stim: A B	n/a	n/a	10
+1005.4180000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1005.5200000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1007.0540000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+1007.7680000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1007.8560000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1009.5900000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+1011.6340000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1011.7420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1013.3780000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+1015.0100000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1015.1300000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1016.5640000000	n/a	n/a	Train Stim: B A	n/a	n/a	13
+1017.0400000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1017.1320000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1018.6660000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+1019.9380000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1019.9420000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1020.0520000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1021.7860000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+1023.2460000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1023.3700000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1025.0060000000	n/a	n/a	Train Stim: D C	n/a	n/a	16
+1027.2520000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1027.3420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1029.0760000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+1031.1580000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1031.2300000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1032.9640000000	n/a	n/a	Train Stim: E F	n/a	n/a	19
+1034.0900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1034.2000000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1036.0340000000	n/a	n/a	Train Stim: C D	n/a	n/a	14
+1039.4680000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1039.5880000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1041.3240000000	n/a	n/a	Train Stim: F E	n/a	n/a	21
+1043.0760000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1043.1420000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1044.5760000000	n/a	n/a	Train Stim: B A	n/a	n/a	12
+1045.6760000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1045.7780000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1047.6120000000	n/a	n/a	Train Stim: A B	n/a	n/a	11
+1048.7500000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1048.8640000000	n/a	n/a	Feedback: Correct	n/a	n/a	94
+1050.5000000000	n/a	n/a	Train Stim: F E	n/a	n/a	20
+1051.9920000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1051.9960000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1052.0840000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1053.8180000000	n/a	n/a	Train Stim: C D	n/a	n/a	15
+1055.4020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1055.4720000000	n/a	n/a	Feedback: Incorrect	n/a	n/a	104
+1056.6040000000	n/a	n/a	STATUS	n/a	n/a	1
+1057.9200000000	n/a	n/a	STATUS	n/a	n/a	255
+1086.7580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1086.8140000000	n/a	n/a	STATUS	n/a	n/a	239
+1088.8820000000	n/a	n/a	Test Stim: E B	n/a	n/a	214
+1089.9460000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1090.7680000000	n/a	n/a	Test Stim: C E	n/a	n/a	220
+1092.5940000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1093.4040000000	n/a	n/a	Test Stim: E B	n/a	n/a	214
+1094.5780000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1095.4060000000	n/a	n/a	Test Stim: E B	n/a	n/a	214
+1098.3800000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1099.2100000000	n/a	n/a	Test Stim: A B	n/a	n/a	200
+1100.4560000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1101.2800000000	n/a	n/a	Test Stim: B F	n/a	n/a	217
+1104.3900000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1105.2160000000	n/a	n/a	Test Stim: C A	n/a	n/a	203
+1105.9580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1106.7840000000	n/a	n/a	Test Stim: F E	n/a	n/a	229
+1108.0620000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1108.8860000000	n/a	n/a	Test Stim: E F	n/a	n/a	228
+1110.3220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1111.1380000000	n/a	n/a	Test Stim: C A	n/a	n/a	203
+1111.8760000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1112.6900000000	n/a	n/a	Test Stim: A C	n/a	n/a	202
+1114.2540000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1115.0760000000	n/a	n/a	Test Stim: A B	n/a	n/a	200
+1116.3000000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1117.1120000000	n/a	n/a	Test Stim: A E	n/a	n/a	206
+1119.8080000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1120.6320000000	n/a	n/a	Test Stim: B F	n/a	n/a	217
+1123.1060000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1123.9340000000	n/a	n/a	Test Stim: C D	n/a	n/a	218
+1126.3300000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1127.1540000000	n/a	n/a	Test Stim: C B	n/a	n/a	210
+1128.9600000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1128.9640000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1129.7740000000	n/a	n/a	Test Stim: B A	n/a	n/a	201
+1130.3200000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1131.1420000000	n/a	n/a	Test Stim: D A	n/a	n/a	205
+1131.7740000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1132.5940000000	n/a	n/a	Test Stim: C E	n/a	n/a	220
+1133.7700000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1134.5960000000	n/a	n/a	Test Stim: B A	n/a	n/a	201
+1135.2500000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1136.0640000000	n/a	n/a	Test Stim: F B	n/a	n/a	216
+1137.9840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1138.8000000000	n/a	n/a	Test Stim: B F	n/a	n/a	217
+1139.6600000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1139.6640000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1140.4860000000	n/a	n/a	Test Stim: D B	n/a	n/a	212
+1141.7880000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1142.6040000000	n/a	n/a	Test Stim: C F	n/a	n/a	222
+1144.7900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1145.6080000000	n/a	n/a	Test Stim: A D	n/a	n/a	204
+1147.2140000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1148.0260000000	n/a	n/a	Test Stim: F C	n/a	n/a	223
+1149.6960000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1150.5120000000	n/a	n/a	Test Stim: C B	n/a	n/a	210
+1152.2140000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1153.0320000000	n/a	n/a	Test Stim: F B	n/a	n/a	216
+1156.3620000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1157.1860000000	n/a	n/a	Test Stim: F E	n/a	n/a	229
+1158.4820000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1159.3060000000	n/a	n/a	Test Stim: F D	n/a	n/a	226
+1161.8660000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1162.6920000000	n/a	n/a	Test Stim: D A	n/a	n/a	205
+1163.3740000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1164.1920000000	n/a	n/a	Test Stim: E F	n/a	n/a	228
+1164.8360000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1165.6620000000	n/a	n/a	Test Stim: B E	n/a	n/a	215
+1167.6900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1167.6940000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1168.5140000000	n/a	n/a	Test Stim: E A	n/a	n/a	207
+1169.1440000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1169.9660000000	n/a	n/a	Test Stim: D E	n/a	n/a	225
+1171.2240000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1172.0520000000	n/a	n/a	Test Stim: A E	n/a	n/a	206
+1174.3140000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1175.1380000000	n/a	n/a	Test Stim: E A	n/a	n/a	207
+1175.7560000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1176.5720000000	n/a	n/a	Test Stim: F E	n/a	n/a	229
+1178.1720000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1178.9920000000	n/a	n/a	Test Stim: E F	n/a	n/a	228
+1180.9840000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1181.8120000000	n/a	n/a	Test Stim: E B	n/a	n/a	214
+1182.8880000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1183.7120000000	n/a	n/a	Test Stim: F E	n/a	n/a	229
+1185.3740000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1186.2000000000	n/a	n/a	Test Stim: B D	n/a	n/a	213
+1189.0360000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1189.8520000000	n/a	n/a	Test Stim: F C	n/a	n/a	223
+1190.6080000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1190.6120000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1191.4380000000	n/a	n/a	Test Stim: B C	n/a	n/a	211
+1192.9960000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1193.8240000000	n/a	n/a	Test Stim: C F	n/a	n/a	222
+1195.6200000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1196.4420000000	n/a	n/a	Test Stim: E C	n/a	n/a	221
+1197.3960000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1198.2120000000	n/a	n/a	Test Stim: E A	n/a	n/a	207
+1199.0920000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1199.9140000000	n/a	n/a	Test Stim: F B	n/a	n/a	216
+1202.8660000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1203.6840000000	n/a	n/a	Test Stim: D F	n/a	n/a	227
+1204.8220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1205.6360000000	n/a	n/a	Test Stim: A E	n/a	n/a	206
+1207.6240000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1208.4540000000	n/a	n/a	Test Stim: B D	n/a	n/a	213
+1210.6980000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1211.5260000000	n/a	n/a	Test Stim: E D	n/a	n/a	224
+1213.0360000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1213.8620000000	n/a	n/a	Test Stim: C D	n/a	n/a	218
+1215.7460000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1216.5640000000	n/a	n/a	Test Stim: D B	n/a	n/a	212
+1218.0040000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1218.8340000000	n/a	n/a	Test Stim: B A	n/a	n/a	201
+1219.5460000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1220.3680000000	n/a	n/a	Test Stim: C F	n/a	n/a	222
+1221.3460000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1222.1700000000	n/a	n/a	Test Stim: F A	n/a	n/a	209
+1222.7720000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1223.6040000000	n/a	n/a	Test Stim: E F	n/a	n/a	228
+1224.3940000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1225.2220000000	n/a	n/a	Test Stim: F B	n/a	n/a	216
+1227.2620000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1228.0760000000	n/a	n/a	Test Stim: C A	n/a	n/a	203
+1228.5480000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1229.3760000000	n/a	n/a	Test Stim: F D	n/a	n/a	226
+1230.2540000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1231.0780000000	n/a	n/a	Test Stim: B C	n/a	n/a	211
+1231.6340000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1232.4640000000	n/a	n/a	Test Stim: E D	n/a	n/a	224
+1232.9900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1233.8140000000	n/a	n/a	Test Stim: E C	n/a	n/a	221
+1234.4620000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1235.2820000000	n/a	n/a	Test Stim: D E	n/a	n/a	225
+1235.9020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1236.7180000000	n/a	n/a	Test Stim: A F	n/a	n/a	208
+1239.7460000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1240.5720000000	n/a	n/a	Test Stim: C B	n/a	n/a	210
+1241.4100000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1242.2240000000	n/a	n/a	Test Stim: B C	n/a	n/a	211
+1242.9600000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1243.7760000000	n/a	n/a	Test Stim: F C	n/a	n/a	223
+1247.0900000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1247.9120000000	n/a	n/a	Test Stim: A D	n/a	n/a	204
+1248.6020000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1249.4300000000	n/a	n/a	Test Stim: E C	n/a	n/a	221
+1250.1440000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1250.9660000000	n/a	n/a	Test Stim: D B	n/a	n/a	212
+1253.1340000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1253.9520000000	n/a	n/a	Test Stim: C E	n/a	n/a	220
+1254.7980000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1254.8020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1255.6200000000	n/a	n/a	Test Stim: A F	n/a	n/a	208
+1256.4800000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1257.3060000000	n/a	n/a	Test Stim: E D	n/a	n/a	224
+1257.9760000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1258.7900000000	n/a	n/a	Test Stim: A D	n/a	n/a	204
+1259.8060000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1260.6260000000	n/a	n/a	Test Stim: B F	n/a	n/a	217
+1261.5540000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1262.3780000000	n/a	n/a	Test Stim: F C	n/a	n/a	223
+1263.7180000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1264.5300000000	n/a	n/a	Test Stim: C D	n/a	n/a	218
+1265.3900000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1266.2140000000	n/a	n/a	Test Stim: F D	n/a	n/a	226
+1268.1860000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1269.0000000000	n/a	n/a	Test Stim: E A	n/a	n/a	207
+1269.5040000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1270.3180000000	n/a	n/a	Test Stim: A F	n/a	n/a	208
+1271.6460000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1271.6500000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1272.4720000000	n/a	n/a	Test Stim: D C	n/a	n/a	219
+1273.7200000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1274.5400000000	n/a	n/a	Test Stim: D E	n/a	n/a	225
+1275.8040000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1276.6260000000	n/a	n/a	Test Stim: D C	n/a	n/a	219
+1278.0920000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1278.9100000000	n/a	n/a	Test Stim: F D	n/a	n/a	226
+1280.2220000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1281.0460000000	n/a	n/a	Test Stim: A E	n/a	n/a	206
+1282.2820000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1283.0980000000	n/a	n/a	Test Stim: A C	n/a	n/a	202
+1284.3360000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1285.1500000000	n/a	n/a	Test Stim: F A	n/a	n/a	209
+1285.9100000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1286.7360000000	n/a	n/a	Test Stim: A F	n/a	n/a	208
+1288.3860000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1288.3900000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1289.2060000000	n/a	n/a	Test Stim: D F	n/a	n/a	227
+1290.8400000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1291.6580000000	n/a	n/a	Test Stim: B E	n/a	n/a	215
+1293.3820000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1294.2100000000	n/a	n/a	Test Stim: C D	n/a	n/a	218
+1295.5600000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1295.5640000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1296.3800000000	n/a	n/a	Test Stim: A C	n/a	n/a	202
+1297.2020000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1298.0300000000	n/a	n/a	Test Stim: D F	n/a	n/a	227
+1299.4800000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1300.3000000000	n/a	n/a	Test Stim: E C	n/a	n/a	221
+1302.8040000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1303.6200000000	n/a	n/a	Test Stim: C F	n/a	n/a	222
+1305.4200000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1306.2380000000	n/a	n/a	Test Stim: D C	n/a	n/a	219
+1308.2380000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1309.0580000000	n/a	n/a	Test Stim: D F	n/a	n/a	227
+1311.1380000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1311.9620000000	n/a	n/a	Test Stim: B D	n/a	n/a	213
+1314.9020000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1315.7320000000	n/a	n/a	Test Stim: B E	n/a	n/a	215
+1319.6700000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1320.4880000000	n/a	n/a	Test Stim: A C	n/a	n/a	202
+1321.2540000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1322.0720000000	n/a	n/a	Test Stim: D A	n/a	n/a	205
+1323.1520000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1323.9740000000	n/a	n/a	Test Stim: F A	n/a	n/a	209
+1324.3580000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1324.3620000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1325.1740000000	n/a	n/a	Test Stim: D C	n/a	n/a	219
+1326.1660000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1326.9940000000	n/a	n/a	Test Stim: C E	n/a	n/a	220
+1327.8580000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1328.6780000000	n/a	n/a	Test Stim: C A	n/a	n/a	203
+1329.3540000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1330.1800000000	n/a	n/a	Test Stim: B D	n/a	n/a	213
+1332.6260000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1333.4500000000	n/a	n/a	Test Stim: A B	n/a	n/a	200
+1334.3720000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1335.1840000000	n/a	n/a	Test Stim: E D	n/a	n/a	224
+1337.2380000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1338.0540000000	n/a	n/a	Test Stim: B A	n/a	n/a	201
+1338.7040000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1339.5220000000	n/a	n/a	Test Stim: A B	n/a	n/a	200
+1340.8780000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1341.6920000000	n/a	n/a	Test Stim: D B	n/a	n/a	212
+1342.7280000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1343.5440000000	n/a	n/a	Test Stim: D A	n/a	n/a	205
+1344.0760000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1344.8960000000	n/a	n/a	Test Stim: A D	n/a	n/a	204
+1346.4280000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1347.2480000000	n/a	n/a	Test Stim: C B	n/a	n/a	210
+1347.9660000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1348.7820000000	n/a	n/a	Test Stim: B C	n/a	n/a	211
+1350.3380000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1351.1520000000	n/a	n/a	Test Stim: D E	n/a	n/a	225
+1352.4160000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1353.2380000000	n/a	n/a	Test Stim: B E	n/a	n/a	215
+1354.4060000000	n/a	n/a	Right response	n/a	n/a	keypad2
+1355.2220000000	n/a	n/a	Test Stim: F A	n/a	n/a	209
+1355.8860000000	n/a	n/a	Left response	n/a	n/a	keypad1
+1356.1900000000	n/a	n/a	STATUS	n/a	n/a	239
