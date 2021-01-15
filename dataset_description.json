@@ -9,5 +9,6 @@
     "License": "CC0",
     "BIDSVersion": "1.1.1",
     "DatasetDOI": "10.18112/openneuro.ds003474.v1.0.0",
-    "Funding": []
+    "Funding": [],
+    "HowToAcknowledge": "PMID: 31149639\n"
 }
